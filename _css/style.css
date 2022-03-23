@@ -7,3 +7,6 @@ figure.eagles_together img{
     width: 100%;
     height: 100%;
 }
+section.test{
+    display:block;
+}
