@@ -50,6 +50,27 @@ figure.eagles_together img {
   margin-left: 0.5rem;
 }
 
+figure.martial_eagle img {
+  width: 50%;
+  height: 50%;
+  float: right;
+  margin-left: 0.5rem;
+}
+
+figure.desfile_portela img {
+  width: 50%;
+  height: 50%;
+  float: right;
+  margin-left: 0.5rem;
+}
+
+figure.jeffery img {
+  width: 50%;
+  height: 50%;
+  float: right;
+  margin-left: 0.5rem;
+}
+
 section.test {
   display: block;
 }
